@@ -1,7 +1,7 @@
 # 2026SMS - 专业的+86虚拟号码接码平台
 
 <p align="center">
-  <img src="https://2026sms.com/logo.png" alt="2026SMS Logo" width="200"/>
+
 </p>
 
 <p align="center">
